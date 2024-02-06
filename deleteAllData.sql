@@ -1,0 +1,7 @@
+SET SQL_SAFE_UPDATES = 0;
+DELETE FROM medics;
+DELETE FROM agencies;
+DELETE FROM reports
+-- DELETE FROM track
+-- DROP DATABASE cadmus_db
+-- DROP TABLE track
